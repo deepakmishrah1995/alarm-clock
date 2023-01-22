@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"header"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"re",
+				"responseJSON"
+			],
+			[
+				"nf",
+				"function"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"par",
+				"para1"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"hig",
+				"height"
+			],
+			[
+				"pur",
+				"paleturquoise"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"p",
+				"placeholder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/oops concepts/fileserver.css",
+		"/E/oops concepts/fileserver.js",
+		"/E/oops concepts/dom.html",
+		"/C/Users/deepa/OneDrive/Desktop/LETSLEARNGIT/diff.java",
+		"/C/Users/deepa/OneDrive/Desktop/LETSLEARNGIT/sum.java",
+		"/C/Users/deepa/OneDrive/Desktop/git_it/fav_movie.txt",
+		"/C/Users/deepa/OneDrive/Documents/AB.HTML",
+		"/C/Users/deepa/OneDrive/Desktop/git_it/a.html",
+		"/C/Users/deepa/OneDrive/Desktop/git_it/phone",
+		"/C/Users/deepa/OneDrive/Desktop/git_it/phone.txt",
+		"/C/Users/deepa/OneDrive/Desktop/git_it/internet.txt",
+		"/C/Users/deepa/OneDrive/Desktop/git_it/aaps.txt",
+		"/C/Users/deepa/OneDrive/Desktop/git_it/music_pl.txt",
+		"/E/oops concepts/script.html",
+		"/E/oops concepts/script.css",
+		"/E/oops concepts/script1.js",
+		"/E/oops concepts/script.js",
+		"/E/oops concepts/var.js",
+		"/C/Users/deepa/OneDrive/Desktop/demo/resume.css",
+		"/C/Users/deepa/OneDrive/Desktop/demo/intro.html",
+		"/C/Users/deepa/OneDrive/Desktop/demo/typeselector.html",
+		"/C/Users/deepa/OneDrive/Desktop/demo/forms.html",
+		"/C/Users/deepa/OneDrive/Desktop/demo/resume.html",
+		"/C/Users/deepa/OneDrive/Desktop/demo/style1.css",
+		"/C/Users/deepa/OneDrive/Desktop/demo/videoaudio.html",
+		"/C/Users/deepa/OneDrive/Desktop/demo/radio,button&checkboc.html",
+		"/E/html/project1/resume.html",
+		"/E/html/project1/style.css",
+		"/E/html/resume.html",
+		"/E/html/abcd.html",
+		"/E/html/style.css",
+		"/E/html/abc.html",
+		"/E/html/abc.style.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "styles.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
